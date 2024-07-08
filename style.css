@@ -1,0 +1,150 @@
+body{
+    background-color:blanchedalmond;
+    
+}
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1 em;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    line-height: 1.2em;
+    font-weight: bolder;
+    background-color: rgb(159, 157, 157);
+    height: 130px;
+    border: 7px solid black;
+    border-radius: 20px;
+    width: 200px ;  
+    padding: 30px;
+    margin: 10px;
+}
+
+.btn{
+    background-color: aquamarine;
+    border: none;
+    cursor:pointer;
+    border-radius: 5px;
+    float:left
+    margin:5px;
+}
+
+.btn:hover{
+    background-color: grey;
+    border: 2px solid black;
+    margin:5px;
+    
+}
+
+a{
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+
+a:hover{
+    color:aqua;
+    background-color: grey;
+}
+
+
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1 em;
+    padding-top: 10px;
+    padding-left: 45px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:gray;
+    background-color: black;
+    height: 50px;
+    border: 5px solid gray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color:rgb(10, 111, 111);
+    background-color: black;
+    height: 600px;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-bottom: 5px solid rgb(10, 111, 111);
+    border-right: 5px solid black;
+    border-radius: 5px;
+    background-image: url(https://img.freepik.com/free-photo/gold-silver-chess-chess-board-game-business-metaphor-leadership-concept_1150-19605.jpg?w=996&t=st=1720419200~exp=1720419800~hmac=c1f96ec917173cfa30667a7baeb0e7a57eeba2df9a4f6eff96b31f69da425f1b);
+    background-repeat: no-repeat;
+    background-position: top center ;
+    padding: 20px;
+    margin: 10px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aquamarine;
+    background-color:black;
+    height: 35px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 5px solid aquamarine;
+    border-right: 5px solid black;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+}
+
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(67, 12, 121);
+    line-height: 1 em;
+    padding: 20px;
+    margin: 10px;
+}
+
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.img1{
+    padding:10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 40%;
+    height: auto;
+}
+
+.img2{
+    padding:10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 20%;
+    height: auto;
+
+}
+
